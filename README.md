@@ -1,2 +1,2 @@
-# Taiwan_CovidDTQ
- Estimating the effects of blended approaches on COVID-19 containment in Taiwan
+# Introduction
+Effects of case- and population-based COVID-19 interventions in Taiwan
